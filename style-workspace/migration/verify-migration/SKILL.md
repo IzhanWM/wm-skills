@@ -1,5 +1,5 @@
 ---
-name: verify-wavemaker-migration
+name: verify-migration
 description: Comprehensive verification of WaveMaker design token migrations including shorthand consolidation, position node removal, and other token transformations. This parent skill analyzes migration changes and delegates to specialized child skills for detailed verification.
 ---
 
